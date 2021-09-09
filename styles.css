@@ -1,0 +1,25 @@
+.inline {
+  background-color: yellow;
+}
+
+.block {
+  background-color: teal;
+  color: white;
+}
+
+.cursive {
+  font-family: cursive;
+}
+
+.sans-serif {
+  font-family: sans-serif;
+}
+
+.testing {
+  padding-top:30px;
+  margin:0 auto;
+}
+
+.testing h3 {
+font-family: 'Urbanist', sans-serif;
+}
