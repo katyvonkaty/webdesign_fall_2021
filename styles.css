@@ -42,16 +42,16 @@ em {
 .padding {
   padding-top: 90px;
   /* margin: 0 auto; */
-  border:1px solid red;
+  border: 1px solid red;
 }
 
 .plain {
-  border:1px solid blue;
+  border: 1px solid blue;
 }
 
 .margins {
-  margin-top:200px;
-  border:1px dotted green;
+  margin-top: 200px;
+  border: 1px dotted green;
 }
 
 .testing h3 {
