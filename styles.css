@@ -11,15 +11,49 @@
   font-family: cursive;
 }
 
+li {
+  color: blue;
+}
+
+em {
+  font-size: 60px;
+}
+
+#first {
+  color: purple;
+  font-size: 12px;
+}
+
+.second {
+  color: pink;
+  font-size: 8px;
+}
+
 .sans-serif {
   font-family: sans-serif;
 }
 
-.testing {
-  padding-top:30px;
-  margin:0 auto;
+#idtest {
+  color: green;
+  font-size: 30px;
+  font-family: 'Dancing Script', cursive;
+}
+
+.padding {
+  padding-top: 90px;
+  /* margin: 0 auto; */
+  border:1px solid red;
+}
+
+.plain {
+  border:1px solid blue;
+}
+
+.margins {
+  margin-top:200px;
+  border:1px dotted green;
 }
 
 .testing h3 {
-font-family: 'Urbanist', sans-serif;
+  font-family: 'Urbanist', sans-serif;
 }
