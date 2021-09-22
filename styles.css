@@ -60,7 +60,7 @@ em {
 
 .background-test{
   position:relative;
-  width:20%;
+  height: 500px;
   background-color: #cccccc;
   background-image:url("https://i.guim.co.uk/img/media/611437095bd45464264157f31201e141af71fa34/0_247_4000_2401/master/4000.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=5050f9c703882e4fde565ff14a26b687")
 }
